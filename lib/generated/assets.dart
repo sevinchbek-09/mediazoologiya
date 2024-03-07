@@ -2,6 +2,13 @@
 class Assets {
   Assets._();
 
+  static const String imagesA = 'assets/images/A.json';
+  static const String imagesAA = 'assets/images/AA.json';
+  static const String imagesAB = 'assets/images/AB.json';
+  static const String imagesAC = 'assets/images/AC.json';
+  static const String imagesAD = 'assets/images/AD.json';
   static const String imagesAsosiy = 'assets/images/asosiy.gif';
+  static const String imagesKapalak = 'assets/images/kapalak.gif';
+  static const String imagesKapalakJSON = 'assets/images/kapalakJSON.json';
 
 }
